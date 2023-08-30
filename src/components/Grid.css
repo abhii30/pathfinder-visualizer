@@ -1,0 +1,29 @@
+.grid {
+  display: grid;
+  gap: 1px;
+  border: 1px solid #ccc;
+  background-color: #f0f0f0;
+}
+
+.row {
+  display: flex;
+}
+
+.cell {
+  width: 25px;
+  height: 25px;
+  border: 1px solid #ccc;
+  background-color: #fff;
+}
+
+.start {
+  background-color: #4caf50;
+}
+
+.end {
+  background-color: #f44336;
+}
+
+.wall {
+  background-color: #333;
+}
