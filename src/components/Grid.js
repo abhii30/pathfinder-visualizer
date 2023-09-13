@@ -10,7 +10,7 @@ class Grid extends Component {
       grid: [],
       isStart: null,
       isEnd: null,
-      settingStart: true, // Flag to indicate whether setting start or end
+      settingStart: true,
     };
   }
 
